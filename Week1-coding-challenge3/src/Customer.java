@@ -2,6 +2,6 @@
 
 public class Customer {
   public int age;
-  private String name;
+  String name;
   protected int id;
 }

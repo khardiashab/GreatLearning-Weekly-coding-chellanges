@@ -1,1 +1,1 @@
-# GreatLearning-Weekly-coding-chellanges
+# Weekly-coding-chellanges
